@@ -1,6 +1,6 @@
 # Arduino Bluetooth Relay w/ Light Sensor
 
-### Small personal project that uses an Arduino, BLE board, photoresistor, and relay assembly. 
+### Personal project that uses an Arduino, BLE board, photoresistor, and relay assembly. 
 
 Started as a project that would toggle a relay on and off given an empty string being sent from phone using UART.
 
